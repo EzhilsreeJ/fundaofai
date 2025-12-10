@@ -73,10 +73,6 @@ Each <strong>cleaning</strong> action improves the performance, while each <stro
 <h3>PROGRAM:</h3>
 
 ```python
-# Developing AI Agent with PEAS Description
-# Developed by: EZHIL SREE J
-# Register Number: 212223230056
-
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
@@ -223,11 +219,17 @@ Thus,a Graph was constructed and implementation of Depth First Search for the sa
 # Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
 # Algorithm:
+
 1.Construct a Graph with Nodes and Edges
+
 2.Breadth First Uses Queue and iterates through the Queue for Traversal.
+
 3.Insert a Start Node into the Queue.
+
 4.Find its Successors Or neighbors and Check whether the node is visited or not.
+
 5.If Not Visited, add it to the Queue. Else Continue.
+
 6.Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.
 
 # program
