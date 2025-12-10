@@ -203,11 +203,17 @@ F H
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 # Sample Input
 5 5
+
 0 1
+
 0 2
+
 0 3
+
 2 3
+
 2 4
+
 # Sample Output
 ['0', '1', '2', '3', '4']
 # Result:
