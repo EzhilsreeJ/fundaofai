@@ -552,12 +552,19 @@ Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Sin
 # Algorithm:
 
 1.Evaluate the initial state.If it is a goal state then return it and quit. Otherwise, continue with initial state as current state.
+
 2.Loop until a solution is found or there are no new operators left to be applied in current state:
+
 (i)Select an operator that has not yet been applied to the current state and apply it to produce a new state
+
 (ii)Evaluate the new state:
+
      (a)if it is a goal state, then return it and quit
+     
      (b)if it is not a goal state but better than current state then make new state as current state
-     (c)if it is not better than current state then continue in the loop
+      
+    (c)if it is not better than current state then continue in the loop
+    
 # Steps Applied:
 Step-1
 Generate Random String of the length equal to the given String
