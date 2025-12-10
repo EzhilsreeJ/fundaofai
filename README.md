@@ -516,18 +516,31 @@ Path found: ['A', 'F', 'G', 'I', 'J']
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/acbb09cb-ed39-48e5-a59b-2f8d61b978a3)
 # Sample Input
 6 6
+
 A B 2
+
 B C 1
+
 A E 3
+
 B G 9
+
 E D 6
+
 D G 1
+
 A 11
+
 B 6
+
 C 99
+
 E 7
+
 D 1
+
 G 0
+
 # Sample Output
 Path found: ['A', 'E', 'D', 'G']
 # Result:
