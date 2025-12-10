@@ -180,15 +180,25 @@ print(traversed_path)
 ```
 # Sample Input
 8 9
+
 A B
+
 A C
+
 B E
+
 C D
+
 B D
+
 C G
+
 D F
+
 G F
+
 F H
+
 # Sample Output
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 # Sample Input
